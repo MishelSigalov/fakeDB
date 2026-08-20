@@ -29,6 +29,12 @@
     "name": "Weekend Getaway",
     "time": "1st of August 2026, 10:00",
     "location": "Eilat"
+  },
+    {
+    "id": 6,
+    "name": "Chill",
+    "time": "Tomorrow",
+    "location": "Home"
   }
   ]
 }
